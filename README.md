@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Santiago Díaz 👋</h1>
+<p align="center">
+  <a href="https://github.com/SantiagoDiaz">
+    <img src="https://komarev.com/ghpvc/?username=SantiagoDiaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+</p>
 
-<!--
-**SantiagoDt/SantiagoDt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/SantiagoDiaz">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Backend+Dev+in+Progress;Always+learning+new+things&center=true&width=380&height=45" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I'm a Computer Engineering student
+- 🔧 Interested in backend development, systems and software engineering
+- 🌱 Currently learning Java, Spring Boot, Docker, MongoDB...
+- 🛠️ I like building useful tools and learning how things work
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tu-linkedin) or [your-email@example.com]
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Java | C | Python
+- 🧰 Spring Boot | Bash | Git | SQL
+- 🗃️ MongoDB | MySQL
+- 🔧 Linux | VS Code | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SantiagoDiaz&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoDiaz&theme=default" />
+</p>
+
+---
+
+> ✨ Tip: si quieres hacerlo más completo, puedo agregarte secciones como proyectos, contacto, etc.
