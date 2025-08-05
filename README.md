@@ -24,10 +24,8 @@ Hi, I'm Santiago Díaz!
 <pre>
 💻 I'm a Computer Engineering student passionate about backend development and distributed systems.
 🧠 Currently learning about machine learning, data science, and neural networks.
-🔧 Built a full microservices simulation with REST APIs, RabbitMQ, MySQL and Docker Compose.
-📡 Also built a biometric monitoring system with Arduino, sensors, and Firebase integration.
 🌟 Main languages: Java, Python, Haskell
-🚀 Tools I use: Spring Boot, Docker, Git, RabbitMQ, IntelliJ IDEA, Bash, Arduino IDE, Figma
+🚀 Tools I use: Spring Boot, Docker, Git, RabbitMQ, IntelliJ IDEA, Bash, Arduino IDE
 🤔 Open to opportunities in: <b>Software Engineering Internships</b> or backend-related roles.
 </pre>
 <hr>
