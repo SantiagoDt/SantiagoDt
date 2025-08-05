@@ -19,7 +19,7 @@
 - 🔧 Interested in backend development, systems and software engineering
 - 🌱 Currently learning Java, Spring Boot, Docker, MongoDB...
 - 🛠️ I like building useful tools and learning how things work
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tu-linkedin) or [your-email@example.com]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/santiago-díaz-tituaña-932843230/) 
 
 ---
 
