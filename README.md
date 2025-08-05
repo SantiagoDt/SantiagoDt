@@ -41,11 +41,12 @@ Hi, I'm Santiago Díaz!
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨🏽‍💻 Programming Languages
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white">
     <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=flat&logo=haskell&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and Tools
@@ -54,6 +55,9 @@ Hi, I'm Santiago Díaz!
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white">
+    <img alt="MPI" src="https://img.shields.io/badge/MPI-%23007ACC.svg?style=flat&logo=gnu&logoColor=white">
+    <img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-%23E34F26.svg?style=flat&logo=openmp&logoColor=white">
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-%2300A651.svg?style=flat&logo=nvidia&logoColor=white">
 </p>
 
 ### 📂 Software and IDEs
