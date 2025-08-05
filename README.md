@@ -14,9 +14,7 @@ Hi, I'm Santiago Díaz!
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/SantiagoDt">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Always%20improving%20and%20building!&center=true&width=420&height=45">
-	</a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Always+improving+and+building!&center=true&width=420&height=45" alt="Typing SVG">
 </p>
 
 <hr>
