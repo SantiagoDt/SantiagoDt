@@ -24,8 +24,7 @@ Hi, I'm Santiago Díaz!
 <pre>
 💻 I'm a Computer Engineering student passionate about backend development and distributed systems.
 🧠 Currently learning about machine learning, data science, and neural networks.
-🌟 Main languages: Java, Python, Haskell, C
-🚀 Tools I use: Spring Boot, Docker, Git, RabbitMQ, IntelliJ IDEA, Bash, Arduino IDE
+🌟 Main languages: Java, Python, C
 🧠 Open to opportunities in: <b>Software Engineering Internships</b> or backend-related roles.
 </pre>
 <hr>
