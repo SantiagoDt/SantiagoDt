@@ -53,11 +53,11 @@ Hi, I'm Santiago Díaz!
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white">
-    <img alt="HAProxy" src="https://img.shields.io/badge/HAProxy-%2300A1E0.svg?style=flat&logo=haproxy&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white">
+    <img alt="HAProxy" src="https://img.shields.io/badge/HAProxy-%2300A1E0.svg?style=flat&logo=haproxy&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
     <img alt="MPI" src="https://img.shields.io/badge/MPI-%23006FAD.svg?style=flat">
