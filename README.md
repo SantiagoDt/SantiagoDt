@@ -75,4 +75,12 @@ Hi, I'm Santiago Díaz!
 </p>
 
 
+## ⚡ Top Languages
+
+<p align="center">
+  <a href="https://github.com/SantiagoDt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDt&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</p>
+
 
