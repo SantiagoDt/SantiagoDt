@@ -49,7 +49,6 @@ Hi, I'm Santiago Díaz!
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white">
-    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235e5086?style=flat&logo=haskell&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white">
  
 </p>
